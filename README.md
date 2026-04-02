@@ -452,7 +452,7 @@ Submit a **text file** named: `YourName_StudentID_Assignment1.txt`
 Student Name: [MANAL ALDARRAMI]
 Student ID: [444052040]
 GitHub Username: [MANAL157]
-Repository Link: https://github.com/MANAL157/OS-MANAL-ALDARRAMI.git
+Repository Link: (https://github.com/manal157/OS-Assignment1-manal-aldarrami)
 Video Link: [Google Drive link - make sure it's accessible to anyone with the link]
 Date Submitted: [2 APRIL]
 ```
